@@ -75,7 +75,7 @@ int main() {
 void fill_word_list(vector<string>& word_list){
 	
 	ifstream in_file;
-	in_file.open("/Users/Kn3rd/Downloads/scowl-2014.08.11.1/final/american-words_95.txt");//makes conection between the file and variable "word_list"
+	in_file.open("/Users/Kn3rd/Desktop/hangman/hangman/american-words_95.txt");//makes conection between the file and variable "word_list"
 	
 	string word;
 	

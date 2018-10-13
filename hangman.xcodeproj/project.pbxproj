@@ -23,9 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		673C07F71DE6B07E005BEBB7 /* american-words_95.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "american-words_95.txt"; path = "../../../Downloads/scowl-2014.08.11.1/final/american-words_95.txt"; sourceTree = "<group>"; };
 		676786941DE57965007E51E4 /* hangman */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hangman; sourceTree = BUILT_PRODUCTS_DIR; };
 		676786971DE57965007E51E4 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		67D724CB21719D6D00778E29 /* american-words_95.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "american-words_95.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				676786971DE57965007E51E4 /* main.cpp */,
-				673C07F71DE6B07E005BEBB7 /* american-words_95.txt */,
+				67D724CB21719D6D00778E29 /* american-words_95.txt */,
 			);
 			path = hangman;
 			sourceTree = "<group>";
